@@ -61,6 +61,7 @@
 
 # Описание страниц отчёта
 
+![](images_&_video/Dashboard_overview.mp4)
 
 ## Overview — Общая аналитика
 
