@@ -20,8 +20,7 @@
 
 Оригинальный датасет доступен на Kaggle:
 
-**Global Superstore Dataset**  
-https://www.kaggle.com/datasets/vivek468/global-super-store-dataset
+[**Global Superstore Dataset** ](https://www.kaggle.com/datasets/endofnight17j03/global-superstore/data)
 
 ---
 
