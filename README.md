@@ -96,6 +96,8 @@ https://github.com/user-attachments/assets/c654353c-762c-4312-ba4f-3fd3ed7889a9
 
 ![](images_&_video/Orders_&_Customers.png)
 
+https://github.com/user-attachments/assets/27738902-dd83-4b43-b3df-1be98ca927ad
+
 **Что анализируется:**
 - Частота заказов  
 - Возвраты  
@@ -116,6 +118,8 @@ https://github.com/user-attachments/assets/c654353c-762c-4312-ba4f-3fd3ed7889a9
 **Product**
 
 ![](images_&_video/Product.png)
+
+https://github.com/user-attachments/assets/3566adc3-1ae8-46fa-89a4-43348311de93
 
 **Основные показатели:**
 - Количество товаров: **3788**
@@ -139,6 +143,8 @@ https://github.com/user-attachments/assets/c654353c-762c-4312-ba4f-3fd3ed7889a9
 **Anomaly & Outlier Detection**
  
 ![](images_&_video/Anomaly_&_Outlier_Detection.png)
+
+https://github.com/user-attachments/assets/53b7457b-b891-4585-b729-fa515436b062
 
 **Обнаружено:**
 - **Аномальные заказы:** 0,23% (60 шт.)  
