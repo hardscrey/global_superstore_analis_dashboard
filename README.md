@@ -66,7 +66,8 @@
 ![](images_&_video/Overview.png)
 
 🎥 Видео демонстрации:  
-https://github.com/user-attachments/assets/c654353c-762c-4312-ba4f-3fd3ed7889a9
+https://github.com/user-attachments/assets/1740d8ac-87ec-4db1-b31b-a627fb8b5348
+
 
 **Основные метрики:**
 - Выручка: 12,64 млн ₽  
@@ -95,7 +96,8 @@ https://github.com/user-attachments/assets/c654353c-762c-4312-ba4f-3fd3ed7889a9
 ![](images_&_video/Orders_&_Customers.png)
 
 🎥 Видео демонстрации:  
-https://github.com/user-attachments/assets/27738902-dd83-4b43-b3df-1be98ca927ad
+https://github.com/user-attachments/assets/298eb98e-261f-413b-8a08-88ae35432036
+
 
 **Что анализируется:**
 - Частота заказов
@@ -118,7 +120,8 @@ https://github.com/user-attachments/assets/27738902-dd83-4b43-b3df-1be98ca927ad
 ![](images_&_video/Product.png)
 
 🎥 Видео демонстрации:  
-https://github.com/user-attachments/assets/3566adc3-1ae8-46fa-89a4-43348311de93
+https://github.com/user-attachments/assets/57a1d5fa-2e40-48c4-9301-2b85876db65d
+
 
 **Основные показатели:**
 - Количество товаров: **3788**
@@ -144,7 +147,8 @@ https://github.com/user-attachments/assets/3566adc3-1ae8-46fa-89a4-43348311de93
 ![](images_&_video/Anomaly_&_Outlier_Detection.png)
 
 🎥 Видео демонстрации:  
-https://github.com/user-attachments/assets/53b7457b-b891-4585-b729-fa515436b062
+https://github.com/user-attachments/assets/37c06aa4-ce54-485c-9bd0-0a756e878261
+
 
 **Обнаружено:**
 - Аномальные заказы: 0,23% (60 шт.)
