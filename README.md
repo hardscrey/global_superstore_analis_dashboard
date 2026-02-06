@@ -67,6 +67,10 @@
 
 ![](images_&_video/Overview.png)
 
+
+https://github.com/user-attachments/assets/c654353c-762c-4312-ba4f-3fd3ed7889a9
+
+
 **Основные метрики:**
 - **Выручка:** 12,64 млн ₽  
 - **Прибыль:** 1,47 млн ₽  
