@@ -53,7 +53,7 @@
 | **Returns** | Возвраты заказов |
 | **Geography** | Страны, регионы, Города, штаты, рынки |
 
-![**ER‑диаграмма**](Manage_Relationships.png)
+![**ER‑диаграмма**](Manage%20Relationships.png)
 
 ---
 
