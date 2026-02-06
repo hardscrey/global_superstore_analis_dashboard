@@ -54,6 +54,7 @@
 | **Geography** | Страны, регионы, Города, штаты, рынки |
 
 **ER‑диаграмма**
+
 ![](images_&_video/Manage_Relationships.png)
 
 ---
@@ -64,7 +65,9 @@
 
 ## Overview — Общая аналитика
 
-![Overview](images/overview.png)
+**Overview**
+
+![](images_&_video/Overview.png)
 
 **Основные метрики:**
 - **Выручка:** 12,64 млн ₽  
